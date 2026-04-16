@@ -1,0 +1,20 @@
+.header {
+    color: red;
+}
+
+.subheader {
+    color: blue;
+    font-style: italic;
+}
+
+.navbar {
+    background: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+.nav-option {
+    color: rgb(50, 238, 50);
+    margin-right: 5px;
+}
