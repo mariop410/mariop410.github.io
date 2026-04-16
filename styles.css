@@ -1,9 +1,9 @@
 .header {
-    color: red;
+    color: black;
 }
 
 .subheader {
-    color: blue;
+    color: black;
     font-style: italic;
 }
 
@@ -15,6 +15,6 @@
 }
 
 .nav-option {
-    color: rgb(50, 238, 50);
+    color: rgb(0, 0, 0);
     margin-right: 5px;
 }
